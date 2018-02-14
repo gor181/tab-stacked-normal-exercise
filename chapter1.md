@@ -27,7 +27,7 @@ run_record_sc <- as.data.frame(scale(run_record))
 ```yaml
 type: NormalExercise
 xp: 20
-key: dd7f91baa2
+key: 87bc0cc568
 ```
 
 `@instructions`
@@ -72,7 +72,7 @@ test_object("run_dist",
 ```yaml
 type: NormalExercise
 xp: 20
-key: 09a63a0126
+key: 8193b52d7f
 ```
 
 `@instructions`
@@ -127,7 +127,7 @@ test_object("run_single",
 ```yaml
 type: NormalExercise
 xp: 20
-key: ea0885c09a
+key: da366bce57
 ```
 
 `@instructions`
@@ -198,7 +198,7 @@ test_correct({
 ```yaml
 type: NormalExercise
 xp: 20
-key: d0f6ceddba
+key: ba9b62c467
 ```
 
 `@instructions`
