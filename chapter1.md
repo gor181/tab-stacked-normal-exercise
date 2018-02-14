@@ -8,7 +8,6 @@ description: This chapter deals with another type of multi-step exercise called 
 ```yaml
 type: TabExercise
 xp: 100
-key: aec26f6a30
 ```
 
 Let's return to the Olympic records example. You've already clustered the countries using the k-means algorithm, but this gave you a fixed amount of clusters. We're interested in more!
@@ -27,7 +26,6 @@ run_record_sc <- as.data.frame(scale(run_record))
 ```yaml
 type: NormalExercise
 xp: 20
-key: b25b64d284
 ```
 
 `@instructions`
@@ -72,7 +70,6 @@ test_object("run_dist",
 ```yaml
 type: NormalExercise
 xp: 20
-key: 38f93a8ff6
 ```
 
 `@instructions`
@@ -127,7 +124,6 @@ test_object("run_single",
 ```yaml
 type: NormalExercise
 xp: 20
-key: 4ad96ef33e
 ```
 
 `@instructions`
@@ -198,7 +194,6 @@ test_correct({
 ```yaml
 type: NormalExercise
 xp: 20
-key: 4
 ```
 
 `@instructions`
